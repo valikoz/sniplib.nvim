@@ -1,0 +1,2 @@
+# sniplib
+Snippets collection
