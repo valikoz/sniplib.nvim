@@ -1,2 +1,2 @@
-# sniplib
+# sniplib.nvim
 Snippets collection
