@@ -1,2 +1,2 @@
 # sniplib.nvim
-Snippets collection
+Snippet library for Neovim written in Lua.
