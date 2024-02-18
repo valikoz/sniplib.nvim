@@ -1,3 +1,6 @@
+# Vim doc tags
+doc/tags
+
 # Compiled Lua sources
 luac.out
 
