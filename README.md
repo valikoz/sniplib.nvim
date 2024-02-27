@@ -2,22 +2,22 @@
 
 [LuaSnip](https://github.com/L3MON4D3/LuaSnip) engine snippets library.
 
-# Requirements
+## Requirements
 
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - [VimTex](https://github.com/lervag/vimtex)
 <!-- - [Nerd Font](https://www.nerdfonts.com/#home) in the terminal -->
 
-# Initialisation
+## Initialisation
 
-# Customization
+## Customization
 
-# TeX Snippets
+## TeX Snippets
 
-## Snippets Structure
+### Snippets Structure
 
-## Icons
+### Icons
 
-# Documentation
+## Documentation
 
 See `:help sniplib.nvim`
